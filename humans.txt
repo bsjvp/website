@@ -1,0 +1,7 @@
+Organization:
+Stree Jeevan Parishad
+
+Website:
+https://www.streejeevanparishad.org.in
+
+Developed using GitHub Pages.

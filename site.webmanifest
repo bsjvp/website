@@ -1,0 +1,15 @@
+{
+  "name": "Bharatiya Stree Jeevan Vikas Parishad",
+  "short_name": "BSJVP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2e7d32",
+  "icons": [
+    {
+      "src": "image/favicon.png",
+      "sizes": "368x328",
+      "type": "image/png"
+    }
+  ]
+}
